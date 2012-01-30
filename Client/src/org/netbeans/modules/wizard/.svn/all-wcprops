@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wizard~svn/!svn/ver/264/trunk/src/org/netbeans/modules/wizard
+END
+Bundle_sv_SE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wizard~svn/!svn/ver/256/trunk/src/org/netbeans/modules/wizard/Bundle_sv_SE.properties
+END
+InstructionsPanelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/wizard~svn/!svn/ver/176/trunk/src/org/netbeans/modules/wizard/InstructionsPanelImpl.java
+END
+NbBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wizard~svn/!svn/ver/164/trunk/src/org/netbeans/modules/wizard/NbBridge.java
+END
+defaultWizard.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wizard~svn/!svn/ver/68/trunk/src/org/netbeans/modules/wizard/defaultWizard.png
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/wizard~svn/!svn/ver/264/trunk/src/org/netbeans/modules/wizard/Bundle_fr.properties
+END
+Bundle_el_GR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wizard~svn/!svn/ver/256/trunk/src/org/netbeans/modules/wizard/Bundle_el_GR.properties
+END
+MergeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wizard~svn/!svn/ver/184/trunk/src/org/netbeans/modules/wizard/MergeMap.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wizard~svn/!svn/ver/255/trunk/src/org/netbeans/modules/wizard/Bundle.properties
+END
+Bundle_de_DE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wizard~svn/!svn/ver/255/trunk/src/org/netbeans/modules/wizard/Bundle_de_DE.properties
+END

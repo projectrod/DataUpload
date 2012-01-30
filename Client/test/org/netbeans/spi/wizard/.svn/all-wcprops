@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wizard~svn/!svn/ver/222/trunk/test/org/netbeans/spi/wizard
+END
+AdHocContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wizard~svn/!svn/ver/104/trunk/test/org/netbeans/spi/wizard/AdHocContainer.java
+END
+Summ.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wizard~svn/!svn/ver/104/trunk/test/org/netbeans/spi/wizard/Summ.java
+END
+GenericListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wizard~svn/!svn/ver/216/trunk/test/org/netbeans/spi/wizard/GenericListenerTest.java
+END
+CustomComponentListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/wizard~svn/!svn/ver/141/trunk/test/org/netbeans/spi/wizard/CustomComponentListenerTest.java
+END
+SimpleWizardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/wizard~svn/!svn/ver/141/trunk/test/org/netbeans/spi/wizard/SimpleWizardTest.java
+END
+InfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/wizard~svn/!svn/ver/134/trunk/test/org/netbeans/spi/wizard/InfoTest.java
+END
+AvoidCellEditorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wizard~svn/!svn/ver/215/trunk/test/org/netbeans/spi/wizard/AvoidCellEditorsTest.java
+END
+BranchingWizardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wizard~svn/!svn/ver/134/trunk/test/org/netbeans/spi/wizard/BranchingWizardTest.java
+END
+LotsOfComponentsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wizard~svn/!svn/ver/215/trunk/test/org/netbeans/spi/wizard/LotsOfComponentsPanel.java
+END
+WizardPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wizard~svn/!svn/ver/222/trunk/test/org/netbeans/spi/wizard/WizardPageTest.java
+END
+LotsOfComponentsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wizard~svn/!svn/ver/17/trunk/test/org/netbeans/spi/wizard/LotsOfComponentsPanel.form
+END

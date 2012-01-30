@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wizard~svn/!svn/ver/263/trunk/src/org/netbeans/api/wizard/displayer
+END
+WizardDisplayerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/wizard~svn/!svn/ver/224/trunk/src/org/netbeans/api/wizard/displayer/WizardDisplayerImpl.java
+END
+InstructionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/wizard~svn/!svn/ver/169/trunk/src/org/netbeans/api/wizard/displayer/InstructionsPanel.java
+END
+busy.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/wizard~svn/!svn/ver/114/trunk/src/org/netbeans/api/wizard/displayer/busy.gif
+END
+NavProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wizard~svn/!svn/ver/225/trunk/src/org/netbeans/api/wizard/displayer/NavProgress.java
+END
+NavButtonManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/wizard~svn/!svn/ver/263/trunk/src/org/netbeans/api/wizard/displayer/NavButtonManager.java
+END

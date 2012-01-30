@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wizard~svn/!svn/ver/222/trunk/test/org/netbeans/api/wizard/displayer
+END
+WizardDisplayerImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wizard~svn/!svn/ver/222/trunk/test/org/netbeans/api/wizard/displayer/WizardDisplayerImplTest.java
+END
+WizardExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wizard~svn/!svn/ver/187/trunk/test/org/netbeans/api/wizard/displayer/WizardExceptionTest.java
+END
+WizardInAdHocContainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wizard~svn/!svn/ver/203/trunk/test/org/netbeans/api/wizard/displayer/WizardInAdHocContainerTest.java
+END
